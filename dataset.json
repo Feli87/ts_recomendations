@@ -1,0 +1,2504 @@
+[
+  {
+    "usuario": "Usuario18",
+    "item": {
+      "titulo": "The Family Plan",
+      "descripcion": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+      "adulto": false,
+      "fondo": "/r9oTasGQofvkQY5vlUXglneF64Z.jpg",
+      "generos": [
+        28,
+        35
+      ],
+      "id": 1029575,
+      "idioma_original": "en",
+      "titulo_original": "The Family Plan",
+      "popularidad": 998.491,
+      "poster": "/a6syn9qcU4a54Lmi3JoIr1XvhFU.jpg",
+      "fecha_lanzamiento": "2023-12-14",
+      "video": false,
+      "calificacion": 7.346,
+      "numero_votos": 895
+    },
+    "description": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario10",
+    "item": {
+      "titulo": "Deadpool & Wolverine",
+      "descripcion": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
+      "adulto": false,
+      "fondo": "/nbq3LfgLXnL5ixZ1Q74jTJmhmTS.jpg",
+      "generos": [
+        28,
+        35,
+        878
+      ],
+      "id": 533535,
+      "idioma_original": "en",
+      "titulo_original": "Deadpool & Wolverine",
+      "popularidad": 326.712,
+      "poster": "/uxBHXaoOvAwy4NpPpP7nNx2rXYQ.jpg",
+      "fecha_lanzamiento": "2024-07-24",
+      "video": false,
+      "calificacion": 0,
+      "numero_votos": 0
+    },
+    "description": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario8",
+    "item": {
+      "titulo": "Fast Charlie",
+      "descripcion": "When his aging mob boss is whacked, Charlie Swift, a loyal friend and hired gun, will stop at nothing to destroy the upcoming crew that took him out.",
+      "adulto": false,
+      "fondo": "/uOvcyJ3XmUv4geypGvZBeZEFMO6.jpg",
+      "generos": [
+        28,
+        80,
+        18
+      ],
+      "id": 945937,
+      "idioma_original": "en",
+      "titulo_original": "Fast Charlie",
+      "popularidad": 221.026,
+      "poster": "/w0rYX6dDvcz1ASO4MAKPviaAj2x.jpg",
+      "fecha_lanzamiento": "2023-12-08",
+      "video": false,
+      "calificacion": 6.215,
+      "numero_votos": 71
+    },
+    "description": "When his aging mob boss is whacked, Charlie Swift, a loyal friend and hired gun, will stop at nothing to destroy the upcoming crew that took him out.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario8",
+    "item": {
+      "titulo": "Poor Things",
+      "descripcion": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+      "adulto": false,
+      "fondo": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+      "generos": [
+        878,
+        10749,
+        35
+      ],
+      "id": 792307,
+      "idioma_original": "en",
+      "titulo_original": "Poor Things",
+      "popularidad": 364.084,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "fecha_lanzamiento": "2023-12-07",
+      "video": false,
+      "calificacion": 8.126,
+      "numero_votos": 1168
+    },
+    "description": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario2",
+    "item": {
+      "titulo": "The Tiger's Apprentice",
+      "descripcion": "After the death of his grandmother, Tom Lee discovers he is part of a long lineage of magical protectors known as the Guardians. With guidance from a mythical tiger named Hu and the other Zodiac animal warriors, Tom trains to take on an evil force that threatens humanity.",
+      "adulto": false,
+      "fondo": "/acpFrSmVLnTNAIuHxnZArkC3dwU.jpg",
+      "generos": [
+        16,
+        28,
+        12,
+        10751,
+        14
+      ],
+      "id": 598387,
+      "idioma_original": "en",
+      "titulo_original": "The Tiger's Apprentice",
+      "popularidad": 534.846,
+      "poster": "/iiid1xMhoAcW83VJ9LdAqf4Vtbr.jpg",
+      "fecha_lanzamiento": "2024-02-02",
+      "video": false,
+      "calificacion": 7.343,
+      "numero_votos": 50
+    },
+    "description": "After the death of his grandmother, Tom Lee discovers he is part of a long lineage of magical protectors known as the Guardians. With guidance from a mythical tiger named Hu and the other Zodiac animal warriors, Tom trains to take on an evil force that threatens humanity.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario13",
+    "item": {
+      "titulo": "Godzilla x Kong: The New Empire",
+      "descripcion": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "adulto": false,
+      "fondo": "/yKAg8z8T1iXeYA0Io3E4u9mchdt.jpg",
+      "generos": [
+        28,
+        878,
+        12
+      ],
+      "id": 823464,
+      "idioma_original": "en",
+      "titulo_original": "Godzilla x Kong: The New Empire",
+      "popularidad": 228.426,
+      "poster": "/bQ2ywkchIiaKLSEaMrcT6e29f91.jpg",
+      "fecha_lanzamiento": "2024-03-27",
+      "video": false,
+      "calificacion": 0,
+      "numero_votos": 0
+    },
+    "description": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario14",
+    "item": {
+      "titulo": "Lift",
+      "descripcion": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+      "adulto": false,
+      "fondo": "/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg",
+      "generos": [
+        28,
+        35,
+        80
+      ],
+      "id": 955916,
+      "idioma_original": "en",
+      "titulo_original": "Lift",
+      "popularidad": 976.755,
+      "poster": "/gma8o1jWa6m0K1iJ9TzHIiFyTtI.jpg",
+      "fecha_lanzamiento": "2024-01-10",
+      "video": false,
+      "calificacion": 6.576,
+      "numero_votos": 771
+    },
+    "description": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario10",
+    "item": {
+      "titulo": "Gran Turismo",
+      "descripcion": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+      "adulto": false,
+      "fondo": "/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+      "generos": [
+        12,
+        28,
+        18
+      ],
+      "id": 980489,
+      "idioma_original": "en",
+      "titulo_original": "Gran Turismo",
+      "popularidad": 236.336,
+      "poster": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+      "fecha_lanzamiento": "2023-08-09",
+      "video": false,
+      "calificacion": 7.941,
+      "numero_votos": 1957
+    },
+    "description": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario9",
+    "item": {
+      "titulo": "The Animal Kingdom",
+      "descripcion": "In a world hit by a wave of mutations transforming humans into animals, François does everything he can to save his wife. As some of the creatures disappear into a nearby forest, he and their son Émile embark on a quest that will change their lives forever.",
+      "adulto": false,
+      "fondo": "/H41DJiw7Q8xn6bWC75eyaavp9L.jpg",
+      "generos": [
+        878,
+        12
+      ],
+      "id": 943134,
+      "idioma_original": "fr",
+      "titulo_original": "Le Règne animal",
+      "popularidad": 233.739,
+      "poster": "/39AiQnXlXOjoqBSkiUpTG80rXLw.jpg",
+      "fecha_lanzamiento": "2023-10-04",
+      "video": false,
+      "calificacion": 7.248,
+      "numero_votos": 258
+    },
+    "description": "In a world hit by a wave of mutations transforming humans into animals, François does everything he can to save his wife. As some of the creatures disappear into a nearby forest, he and their son Émile embark on a quest that will change their lives forever.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario16",
+    "item": {
+      "titulo": "The Flash",
+      "descripcion": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+      "adulto": false,
+      "fondo": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+      "generos": [
+        28,
+        12,
+        878
+      ],
+      "id": 298618,
+      "idioma_original": "en",
+      "titulo_original": "The Flash",
+      "popularidad": 282.159,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "fecha_lanzamiento": "2023-06-13",
+      "video": false,
+      "calificacion": 6.785,
+      "numero_votos": 3573
+    },
+    "description": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario10",
+    "item": {
+      "titulo": "The Beekeeper",
+      "descripcion": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+      "adulto": false,
+      "fondo": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "generos": [
+        28,
+        53,
+        18
+      ],
+      "id": 866398,
+      "idioma_original": "en",
+      "titulo_original": "The Beekeeper",
+      "popularidad": 790.928,
+      "poster": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "fecha_lanzamiento": "2024-01-10",
+      "video": false,
+      "calificacion": 7.278,
+      "numero_votos": 1095
+    },
+    "description": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario17",
+    "item": {
+      "titulo": "Orion and the Dark",
+      "descripcion": "A boy with an active imagination faces his fears on an unforgettable journey through the night with his new friend: a giant, smiling creature named Dark.",
+      "adulto": false,
+      "fondo": "/zLj0peaxy5y2SlC6wNIQ4V0pfqg.jpg",
+      "generos": [
+        16,
+        10751,
+        35,
+        14
+      ],
+      "id": 1139829,
+      "idioma_original": "en",
+      "titulo_original": "Orion and the Dark",
+      "popularidad": 645.862,
+      "poster": "/N2ddXhBX5kqwA9flbm2yqFtX6b.jpg",
+      "fecha_lanzamiento": "2024-02-02",
+      "video": false,
+      "calificacion": 6.737,
+      "numero_votos": 196
+    },
+    "description": "A boy with an active imagination faces his fears on an unforgettable journey through the night with his new friend: a giant, smiling creature named Dark.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario17",
+    "item": {
+      "titulo": "Godzilla x Kong: The New Empire",
+      "descripcion": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "adulto": false,
+      "fondo": "/yKAg8z8T1iXeYA0Io3E4u9mchdt.jpg",
+      "generos": [
+        28,
+        878,
+        12
+      ],
+      "id": 823464,
+      "idioma_original": "en",
+      "titulo_original": "Godzilla x Kong: The New Empire",
+      "popularidad": 228.426,
+      "poster": "/bQ2ywkchIiaKLSEaMrcT6e29f91.jpg",
+      "fecha_lanzamiento": "2024-03-27",
+      "video": false,
+      "calificacion": 0,
+      "numero_votos": 0
+    },
+    "description": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario4",
+    "item": {
+      "titulo": "The Marvels",
+      "descripcion": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "adulto": false,
+      "fondo": "/c4apcripPlnlnRcPODgAijCvPul.jpg",
+      "generos": [
+        878,
+        12,
+        28
+      ],
+      "id": 609681,
+      "idioma_original": "en",
+      "titulo_original": "The Marvels",
+      "popularidad": 1036.39,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "fecha_lanzamiento": "2023-11-08",
+      "video": false,
+      "calificacion": 6.284,
+      "numero_votos": 1655
+    },
+    "description": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario13",
+    "item": {
+      "titulo": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "descripcion": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+      "adulto": false,
+      "fondo": "/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+      "generos": [
+        18,
+        878,
+        28
+      ],
+      "id": 695721,
+      "idioma_original": "en",
+      "titulo_original": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "popularidad": 693.233,
+      "poster": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+      "fecha_lanzamiento": "2023-11-15",
+      "video": false,
+      "calificacion": 7.209,
+      "numero_votos": 1729
+    },
+    "description": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario2",
+    "item": {
+      "titulo": "Lift",
+      "descripcion": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+      "adulto": false,
+      "fondo": "/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg",
+      "generos": [
+        28,
+        35,
+        80
+      ],
+      "id": 955916,
+      "idioma_original": "en",
+      "titulo_original": "Lift",
+      "popularidad": 976.755,
+      "poster": "/gma8o1jWa6m0K1iJ9TzHIiFyTtI.jpg",
+      "fecha_lanzamiento": "2024-01-10",
+      "video": false,
+      "calificacion": 6.588,
+      "numero_votos": 761
+    },
+    "description": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario18",
+    "item": {
+      "titulo": "The Beekeeper",
+      "descripcion": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+      "adulto": false,
+      "fondo": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "generos": [
+        28,
+        53,
+        18
+      ],
+      "id": 866398,
+      "idioma_original": "en",
+      "titulo_original": "The Beekeeper",
+      "popularidad": 790.928,
+      "poster": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "fecha_lanzamiento": "2024-01-10",
+      "video": false,
+      "calificacion": 7.278,
+      "numero_votos": 1095
+    },
+    "description": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario19",
+    "item": {
+      "titulo": "Role Play",
+      "descripcion": "Emma has a wonderful husband and two kids in the suburbs of New Jersey – she also has a secret life as an assassin for hire – a secret that her husband David discovers when the couple decide to spice up their marriage with a little role play.",
+      "adulto": false,
+      "fondo": "/yl2GfeCaPoxChcGyM5p7vYp1CKS.jpg",
+      "generos": [
+        28,
+        35,
+        10749
+      ],
+      "id": 848187,
+      "idioma_original": "en",
+      "titulo_original": "Role Play",
+      "popularidad": 651.413,
+      "poster": "/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg",
+      "fecha_lanzamiento": "2024-01-04",
+      "video": false,
+      "calificacion": 5.998,
+      "numero_votos": 331
+    },
+    "description": "Emma has a wonderful husband and two kids in the suburbs of New Jersey – she also has a secret life as an assassin for hire – a secret that her husband David discovers when the couple decide to spice up their marriage with a little role play.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario18",
+    "item": {
+      "titulo": "Avatar: The Way of Water",
+      "descripcion": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "adulto": false,
+      "fondo": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+      "generos": [
+        878,
+        12,
+        28
+      ],
+      "id": 76600,
+      "idioma_original": "en",
+      "titulo_original": "Avatar: The Way of Water",
+      "popularidad": 235.191,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "fecha_lanzamiento": "2022-12-14",
+      "video": false,
+      "calificacion": 7.634,
+      "numero_votos": 10821
+    },
+    "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario3",
+    "item": {
+      "titulo": "Orion and the Dark",
+      "descripcion": "A boy with an active imagination faces his fears on an unforgettable journey through the night with his new friend: a giant, smiling creature named Dark.",
+      "adulto": false,
+      "fondo": "/zLj0peaxy5y2SlC6wNIQ4V0pfqg.jpg",
+      "generos": [
+        16,
+        10751,
+        35,
+        14
+      ],
+      "id": 1139829,
+      "idioma_original": "en",
+      "titulo_original": "Orion and the Dark",
+      "popularidad": 645.862,
+      "poster": "/N2ddXhBX5kqwA9flbm2yqFtX6b.jpg",
+      "fecha_lanzamiento": "2024-02-02",
+      "video": false,
+      "calificacion": 6.737,
+      "numero_votos": 196
+    },
+    "description": "A boy with an active imagination faces his fears on an unforgettable journey through the night with his new friend: a giant, smiling creature named Dark.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario15",
+    "item": {
+      "titulo": "Gran Turismo",
+      "descripcion": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+      "adulto": false,
+      "fondo": "/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+      "generos": [
+        12,
+        28,
+        18
+      ],
+      "id": 980489,
+      "idioma_original": "en",
+      "titulo_original": "Gran Turismo",
+      "popularidad": 236.336,
+      "poster": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+      "fecha_lanzamiento": "2023-08-09",
+      "video": false,
+      "calificacion": 7.941,
+      "numero_votos": 1957
+    },
+    "description": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario3",
+    "item": {
+      "titulo": "Role Play",
+      "descripcion": "Emma has a wonderful husband and two kids in the suburbs of New Jersey – she also has a secret life as an assassin for hire – a secret that her husband David discovers when the couple decide to spice up their marriage with a little role play.",
+      "adulto": false,
+      "fondo": "/yl2GfeCaPoxChcGyM5p7vYp1CKS.jpg",
+      "generos": [
+        28,
+        35,
+        10749
+      ],
+      "id": 848187,
+      "idioma_original": "en",
+      "titulo_original": "Role Play",
+      "popularidad": 651.413,
+      "poster": "/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg",
+      "fecha_lanzamiento": "2024-01-04",
+      "video": false,
+      "calificacion": 5.998,
+      "numero_votos": 331
+    },
+    "description": "Emma has a wonderful husband and two kids in the suburbs of New Jersey – she also has a secret life as an assassin for hire – a secret that her husband David discovers when the couple decide to spice up their marriage with a little role play.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario15",
+    "item": {
+      "titulo": "The Flash",
+      "descripcion": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+      "adulto": false,
+      "fondo": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+      "generos": [
+        28,
+        12,
+        878
+      ],
+      "id": 298618,
+      "idioma_original": "en",
+      "titulo_original": "The Flash",
+      "popularidad": 282.159,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "fecha_lanzamiento": "2023-06-13",
+      "video": false,
+      "calificacion": 6.785,
+      "numero_votos": 3574
+    },
+    "description": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario10",
+    "item": {
+      "titulo": "Upgraded",
+      "descripcion": "Ana is an ambitious intern dreaming of a career in the art world while trying to impress her demanding boss Claire. When she's upgraded to first class on a work trip, she meets handsome Will, who mistakes Ana for her boss– a white lie that sets off a glamorous chain of events, romance and opportunity, until her fib threatens to surface.",
+      "adulto": false,
+      "fondo": "/pRmF6VBsRnvWCbLB9P80UvZFMyK.jpg",
+      "generos": [
+        10749,
+        35
+      ],
+      "id": 1014590,
+      "idioma_original": "en",
+      "titulo_original": "Upgraded",
+      "popularidad": 354.225,
+      "poster": "/9xn7y63VIpUsIVzSP9fYrqJHyl9.jpg",
+      "fecha_lanzamiento": "2024-02-07",
+      "video": false,
+      "calificacion": 7.373,
+      "numero_votos": 189
+    },
+    "description": "Ana is an ambitious intern dreaming of a career in the art world while trying to impress her demanding boss Claire. When she's upgraded to first class on a work trip, she meets handsome Will, who mistakes Ana for her boss– a white lie that sets off a glamorous chain of events, romance and opportunity, until her fib threatens to surface.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario15",
+    "item": {
+      "titulo": "Madame Web",
+      "descripcion": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+      "adulto": false,
+      "fondo": "/uUiIGztTrfDhPdAFJpr6m4UBMAd.jpg",
+      "generos": [
+        878,
+        28,
+        12
+      ],
+      "id": 634492,
+      "idioma_original": "en",
+      "titulo_original": "Madame Web",
+      "popularidad": 567.846,
+      "poster": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+      "fecha_lanzamiento": "2024-02-14",
+      "video": false,
+      "calificacion": 5.685,
+      "numero_votos": 54
+    },
+    "description": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario7",
+    "item": {
+      "titulo": "Nowhere",
+      "descripcion": "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to the child while lost at sea, where she must fight to survive.",
+      "adulto": false,
+      "fondo": "/xvzxqKWltnj6qSiWBXRq6ZCdcrw.jpg",
+      "generos": [
+        53,
+        18
+      ],
+      "id": 1151534,
+      "idioma_original": "es",
+      "titulo_original": "Nowhere",
+      "popularidad": 297.965,
+      "poster": "/cVxIX8JJJB179zh7wcUt0A6TpQQ.jpg",
+      "fecha_lanzamiento": "2023-09-29",
+      "video": false,
+      "calificacion": 7.48,
+      "numero_votos": 1100
+    },
+    "description": "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship. After a violent storm, Mia gives birth to the child while lost at sea, where she must fight to survive.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario10",
+    "item": {
+      "titulo": "The Tiger's Apprentice",
+      "descripcion": "After the death of his grandmother, Tom Lee discovers he is part of a long lineage of magical protectors known as the Guardians. With guidance from a mythical tiger named Hu and the other Zodiac animal warriors, Tom trains to take on an evil force that threatens humanity.",
+      "adulto": false,
+      "fondo": "/acpFrSmVLnTNAIuHxnZArkC3dwU.jpg",
+      "generos": [
+        16,
+        28,
+        12,
+        10751,
+        14
+      ],
+      "id": 598387,
+      "idioma_original": "en",
+      "titulo_original": "The Tiger's Apprentice",
+      "popularidad": 534.846,
+      "poster": "/iiid1xMhoAcW83VJ9LdAqf4Vtbr.jpg",
+      "fecha_lanzamiento": "2024-02-02",
+      "video": false,
+      "calificacion": 7.343,
+      "numero_votos": 50
+    },
+    "description": "After the death of his grandmother, Tom Lee discovers he is part of a long lineage of magical protectors known as the Guardians. With guidance from a mythical tiger named Hu and the other Zodiac animal warriors, Tom trains to take on an evil force that threatens humanity.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario11",
+    "item": {
+      "titulo": "The Marvels",
+      "descripcion": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "adulto": false,
+      "fondo": "/c4apcripPlnlnRcPODgAijCvPul.jpg",
+      "generos": [
+        878,
+        12,
+        28
+      ],
+      "id": 609681,
+      "idioma_original": "en",
+      "titulo_original": "The Marvels",
+      "popularidad": 1036.39,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "fecha_lanzamiento": "2023-11-08",
+      "video": false,
+      "calificacion": 6.284,
+      "numero_votos": 1655
+    },
+    "description": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario20",
+    "item": {
+      "titulo": "The Flash",
+      "descripcion": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+      "adulto": false,
+      "fondo": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+      "generos": [
+        28,
+        12,
+        878
+      ],
+      "id": 298618,
+      "idioma_original": "en",
+      "titulo_original": "The Flash",
+      "popularidad": 282.159,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "fecha_lanzamiento": "2023-06-13",
+      "video": false,
+      "calificacion": 6.785,
+      "numero_votos": 3574
+    },
+    "description": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario19",
+    "item": {
+      "titulo": "Lift",
+      "descripcion": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+      "adulto": false,
+      "fondo": "/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg",
+      "generos": [
+        28,
+        35,
+        80
+      ],
+      "id": 955916,
+      "idioma_original": "en",
+      "titulo_original": "Lift",
+      "popularidad": 976.755,
+      "poster": "/gma8o1jWa6m0K1iJ9TzHIiFyTtI.jpg",
+      "fecha_lanzamiento": "2024-01-10",
+      "video": false,
+      "calificacion": 6.576,
+      "numero_votos": 771
+    },
+    "description": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario19",
+    "item": {
+      "titulo": "Trunk: Locked In",
+      "descripcion": "Malina wakes up disoriented in the trunk of a speeding car and discovers to her horror that she is missing more than her memory. With her mobile phone as the only link to the outside world, she wages a desperate battle for survival.",
+      "adulto": false,
+      "fondo": "/lVoHnqwfkDv4GHktEewBguhiNRn.jpg",
+      "generos": [
+        53,
+        28,
+        18
+      ],
+      "id": 1183905,
+      "idioma_original": "de",
+      "titulo_original": "Trunk: Locked In",
+      "popularidad": 202.451,
+      "poster": "/znbGgoqcQB0pxoTSO5imfALWOk3.jpg",
+      "fecha_lanzamiento": "2023-11-24",
+      "video": false,
+      "calificacion": 5.636,
+      "numero_votos": 33
+    },
+    "description": "Malina wakes up disoriented in the trunk of a speeding car and discovers to her horror that she is missing more than her memory. With her mobile phone as the only link to the outside world, she wages a desperate battle for survival.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario1",
+    "item": {
+      "titulo": "Madame Web",
+      "descripcion": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+      "adulto": false,
+      "fondo": "/uUiIGztTrfDhPdAFJpr6m4UBMAd.jpg",
+      "generos": [
+        878,
+        28,
+        12
+      ],
+      "id": 634492,
+      "idioma_original": "en",
+      "titulo_original": "Madame Web",
+      "popularidad": 567.846,
+      "poster": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+      "fecha_lanzamiento": "2024-02-14",
+      "video": false,
+      "calificacion": 5.443,
+      "numero_votos": 44
+    },
+    "description": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario11",
+    "item": {
+      "titulo": "Skal - Fight for Survival",
+      "descripcion": "My name's Arthur, a huge Internet star who's just hit 3 million subs. While in the midst of throwing an epic party to celebrate, the universe had the balls to bring on the effing apocalypse and cut my night short. What was supposed to be a perfect hangover, has turned into an epic fight for survival.",
+      "adulto": false,
+      "fondo": "/w12jjv5XNNpHgM4he1COnfWiA93.jpg",
+      "generos": [
+        28,
+        27,
+        35,
+        53
+      ],
+      "id": 1211483,
+      "idioma_original": "en",
+      "titulo_original": "Skal - Fight for Survival",
+      "popularidad": 974.289,
+      "poster": "/uQkiDKQyun13mqsOXv7I5MRKr0q.jpg",
+      "fecha_lanzamiento": "2023-11-24",
+      "video": false,
+      "calificacion": 6.5,
+      "numero_votos": 1
+    },
+    "description": "My name's Arthur, a huge Internet star who's just hit 3 million subs. While in the midst of throwing an epic party to celebrate, the universe had the balls to bring on the effing apocalypse and cut my night short. What was supposed to be a perfect hangover, has turned into an epic fight for survival.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario17",
+    "item": {
+      "titulo": "Silent Night",
+      "descripcion": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
+      "adulto": false,
+      "fondo": "/gg4zZoTggZmpAQ32qIrP5dtnkEZ.jpg",
+      "generos": [
+        28,
+        80,
+        53
+      ],
+      "id": 891699,
+      "idioma_original": "en",
+      "titulo_original": "Silent Night",
+      "popularidad": 698.175,
+      "poster": "/nJCP1ZNTPKlZ7S0Kv3gbmuraAT4.jpg",
+      "fecha_lanzamiento": "2023-11-30",
+      "video": false,
+      "calificacion": 6.339,
+      "numero_votos": 448
+    },
+    "description": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario8",
+    "item": {
+      "titulo": "Dune",
+      "descripcion": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "adulto": false,
+      "fondo": "/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+      "generos": [
+        878,
+        12
+      ],
+      "id": 438631,
+      "idioma_original": "en",
+      "titulo_original": "Dune",
+      "popularidad": 241.707,
+      "poster": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "fecha_lanzamiento": "2021-09-15",
+      "video": false,
+      "calificacion": 7.786,
+      "numero_votos": 10056
+    },
+    "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario3",
+    "item": {
+      "titulo": "Jigen Daisuke",
+      "descripcion": "Feeling unhappy with his gun, Jigen is looking for the world’s best gunsmith. He finally finds out that Chiharu, who runs a watch shop, is the person he’s been seeking. Then, Jigen meets Oto, who comes to Chiharu’s shop looking for a gun. Jigen finds out about Oto's secrets and the mysterious organization that’s after her. After Oto is kidnapped, Jigen gets into a desperate battle to save her.",
+      "adulto": false,
+      "fondo": "/7Q6C4Z2Cr2ZrsXg6WcwWCwL27.jpg",
+      "generos": [
+        28,
+        80,
+        18
+      ],
+      "id": 1157049,
+      "idioma_original": "ja",
+      "titulo_original": "次元大介",
+      "popularidad": 218.167,
+      "poster": "/rBeAZ1YiwVQSdeiHCWzGtJhKvbV.jpg",
+      "fecha_lanzamiento": "2023-10-12",
+      "video": false,
+      "calificacion": 7.132,
+      "numero_votos": 38
+    },
+    "description": "Feeling unhappy with his gun, Jigen is looking for the world’s best gunsmith. He finally finds out that Chiharu, who runs a watch shop, is the person he’s been seeking. Then, Jigen meets Oto, who comes to Chiharu’s shop looking for a gun. Jigen finds out about Oto's secrets and the mysterious organization that’s after her. After Oto is kidnapped, Jigen gets into a desperate battle to save her.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario20",
+    "item": {
+      "titulo": "Transformers: Rise of the Beasts",
+      "descripcion": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+      "adulto": false,
+      "fondo": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+      "generos": [
+        28,
+        12,
+        878
+      ],
+      "id": 667538,
+      "idioma_original": "en",
+      "titulo_original": "Transformers: Rise of the Beasts",
+      "popularidad": 326.86,
+      "poster": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+      "fecha_lanzamiento": "2023-06-06",
+      "video": false,
+      "calificacion": 7.367,
+      "numero_votos": 4011
+    },
+    "description": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario15",
+    "item": {
+      "titulo": "The Marvels",
+      "descripcion": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "adulto": false,
+      "fondo": "/c4apcripPlnlnRcPODgAijCvPul.jpg",
+      "generos": [
+        878,
+        12,
+        28
+      ],
+      "id": 609681,
+      "idioma_original": "en",
+      "titulo_original": "The Marvels",
+      "popularidad": 1036.39,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "fecha_lanzamiento": "2023-11-08",
+      "video": false,
+      "calificacion": 6.284,
+      "numero_votos": 1655
+    },
+    "description": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario20",
+    "item": {
+      "titulo": "Blue Beetle",
+      "descripcion": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+      "adulto": false,
+      "fondo": "/xzdOIL7261CWehsHOk3lnP0xqam.jpg",
+      "generos": [
+        28,
+        878,
+        12
+      ],
+      "id": 565770,
+      "idioma_original": "en",
+      "titulo_original": "Blue Beetle",
+      "popularidad": 253.21,
+      "poster": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+      "fecha_lanzamiento": "2023-08-16",
+      "video": false,
+      "calificacion": 6.871,
+      "numero_votos": 2153
+    },
+    "description": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario17",
+    "item": {
+      "titulo": "Ballerina",
+      "descripcion": "Grieving the loss of a best friend she couldn't protect, an ex-bodyguard sets out to fulfill her dear friend's last wish: sweet revenge.",
+      "adulto": false,
+      "fondo": "/dAXSflkUKRfpzK74kRaovfK09Kx.jpg",
+      "generos": [
+        28,
+        12,
+        53
+      ],
+      "id": 961268,
+      "idioma_original": "ko",
+      "titulo_original": "발레리나",
+      "popularidad": 217.764,
+      "poster": "/oE7xtGDqZnr7tFHfwb8oM9iRW6H.jpg",
+      "fecha_lanzamiento": "2023-10-05",
+      "video": false,
+      "calificacion": 7.04,
+      "numero_votos": 403
+    },
+    "description": "Grieving the loss of a best friend she couldn't protect, an ex-bodyguard sets out to fulfill her dear friend's last wish: sweet revenge.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario4",
+    "item": {
+      "titulo": "Avatar: The Way of Water",
+      "descripcion": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "adulto": false,
+      "fondo": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+      "generos": [
+        878,
+        12,
+        28
+      ],
+      "id": 76600,
+      "idioma_original": "en",
+      "titulo_original": "Avatar: The Way of Water",
+      "popularidad": 235.191,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "fecha_lanzamiento": "2022-12-14",
+      "video": false,
+      "calificacion": 7.634,
+      "numero_votos": 10821
+    },
+    "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario8",
+    "item": {
+      "titulo": "Migration",
+      "descripcion": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+      "adulto": false,
+      "fondo": "/meyhnvssZOPPjud4F1CjOb4snET.jpg",
+      "generos": [
+        16,
+        28,
+        12,
+        35,
+        10751
+      ],
+      "id": 940551,
+      "idioma_original": "en",
+      "titulo_original": "Migration",
+      "popularidad": 826.167,
+      "poster": "/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+      "fecha_lanzamiento": "2023-12-06",
+      "video": false,
+      "calificacion": 7.666,
+      "numero_votos": 624
+    },
+    "description": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario19",
+    "item": {
+      "titulo": "Mary and Max",
+      "descripcion": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+      "adulto": false,
+      "fondo": "/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+      "generos": [
+        16,
+        35,
+        18
+      ],
+      "id": 24238,
+      "idioma_original": "en",
+      "titulo_original": "Mary and Max",
+      "popularidad": 364.694,
+      "poster": "/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg",
+      "fecha_lanzamiento": "2009-02-09",
+      "video": false,
+      "calificacion": 7.863,
+      "numero_votos": 1836
+    },
+    "description": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario15",
+    "item": {
+      "titulo": "The Tiger's Apprentice",
+      "descripcion": "After the death of his grandmother, Tom Lee discovers he is part of a long lineage of magical protectors known as the Guardians. With guidance from a mythical tiger named Hu and the other Zodiac animal warriors, Tom trains to take on an evil force that threatens humanity.",
+      "adulto": false,
+      "fondo": "/acpFrSmVLnTNAIuHxnZArkC3dwU.jpg",
+      "generos": [
+        16,
+        28,
+        12,
+        10751,
+        14
+      ],
+      "id": 598387,
+      "idioma_original": "en",
+      "titulo_original": "The Tiger's Apprentice",
+      "popularidad": 534.846,
+      "poster": "/iiid1xMhoAcW83VJ9LdAqf4Vtbr.jpg",
+      "fecha_lanzamiento": "2024-02-02",
+      "video": false,
+      "calificacion": 7.204,
+      "numero_votos": 54
+    },
+    "description": "After the death of his grandmother, Tom Lee discovers he is part of a long lineage of magical protectors known as the Guardians. With guidance from a mythical tiger named Hu and the other Zodiac animal warriors, Tom trains to take on an evil force that threatens humanity.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario3",
+    "item": {
+      "titulo": "Aquaman and the Lost Kingdom",
+      "descripcion": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.",
+      "adulto": false,
+      "fondo": "/cnqwv5Uz3UW5f086IWbQKr3ksJr.jpg",
+      "generos": [
+        28,
+        12,
+        14
+      ],
+      "id": 572802,
+      "idioma_original": "en",
+      "titulo_original": "Aquaman and the Lost Kingdom",
+      "popularidad": 777.68,
+      "poster": "/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+      "fecha_lanzamiento": "2023-12-20",
+      "video": false,
+      "calificacion": 6.9,
+      "numero_votos": 1634
+    },
+    "description": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario15",
+    "item": {
+      "titulo": "Society of the Snow",
+      "descripcion": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+      "adulto": false,
+      "fondo": "/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg",
+      "generos": [
+        18,
+        36
+      ],
+      "id": 906126,
+      "idioma_original": "es",
+      "titulo_original": "La sociedad de la nieve",
+      "popularidad": 313.536,
+      "poster": "/2e853FDVSIso600RqAMunPxiZjq.jpg",
+      "fecha_lanzamiento": "2023-12-13",
+      "video": false,
+      "calificacion": 8.096,
+      "numero_votos": 1869
+    },
+    "description": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario13",
+    "item": {
+      "titulo": "Deadpool 2",
+      "descripcion": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+      "adulto": false,
+      "fondo": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+      "generos": [
+        28,
+        35,
+        12
+      ],
+      "id": 383498,
+      "idioma_original": "en",
+      "titulo_original": "Deadpool 2",
+      "popularidad": 284.619,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "fecha_lanzamiento": "2018-05-10",
+      "video": false,
+      "calificacion": 7.488,
+      "numero_votos": 16715
+    },
+    "description": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario8",
+    "item": {
+      "titulo": "Blue Beetle",
+      "descripcion": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+      "adulto": false,
+      "fondo": "/xzdOIL7261CWehsHOk3lnP0xqam.jpg",
+      "generos": [
+        28,
+        878,
+        12
+      ],
+      "id": 565770,
+      "idioma_original": "en",
+      "titulo_original": "Blue Beetle",
+      "popularidad": 253.21,
+      "poster": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+      "fecha_lanzamiento": "2023-08-16",
+      "video": false,
+      "calificacion": 6.871,
+      "numero_votos": 2153
+    },
+    "description": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario10",
+    "item": {
+      "titulo": "Barbie",
+      "descripcion": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "adulto": false,
+      "fondo": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+      "generos": [
+        35,
+        12,
+        14
+      ],
+      "id": 346698,
+      "idioma_original": "en",
+      "titulo_original": "Barbie",
+      "popularidad": 232.236,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "fecha_lanzamiento": "2023-07-19",
+      "video": false,
+      "calificacion": 7.126,
+      "numero_votos": 7329
+    },
+    "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario18",
+    "item": {
+      "titulo": "Barbie",
+      "descripcion": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "adulto": false,
+      "fondo": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+      "generos": [
+        35,
+        12,
+        14
+      ],
+      "id": 346698,
+      "idioma_original": "en",
+      "titulo_original": "Barbie",
+      "popularidad": 232.236,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "fecha_lanzamiento": "2023-07-19",
+      "video": false,
+      "calificacion": 7.126,
+      "numero_votos": 7329
+    },
+    "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario2",
+    "item": {
+      "titulo": "Freelance",
+      "descripcion": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+      "adulto": false,
+      "fondo": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+      "generos": [
+        28,
+        35
+      ],
+      "id": 897087,
+      "idioma_original": "en",
+      "titulo_original": "Freelance",
+      "popularidad": 566.04,
+      "poster": "/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+      "fecha_lanzamiento": "2023-10-05",
+      "video": false,
+      "calificacion": 6.555,
+      "numero_votos": 546
+    },
+    "description": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario3",
+    "item": {
+      "titulo": "The Marvels",
+      "descripcion": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "adulto": false,
+      "fondo": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
+      "generos": [
+        878,
+        12,
+        28
+      ],
+      "id": 609681,
+      "idioma_original": "en",
+      "titulo_original": "The Marvels",
+      "popularidad": 1036.39,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "fecha_lanzamiento": "2023-11-08",
+      "video": false,
+      "calificacion": 6.281,
+      "numero_votos": 1665
+    },
+    "description": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario12",
+    "item": {
+      "titulo": "The Super Mario Bros. Movie",
+      "descripcion": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      "adulto": false,
+      "fondo": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+      "generos": [
+        16,
+        10751,
+        12,
+        14,
+        35
+      ],
+      "id": 502356,
+      "idioma_original": "en",
+      "titulo_original": "The Super Mario Bros. Movie",
+      "popularidad": 233.088,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "fecha_lanzamiento": "2023-04-05",
+      "video": false,
+      "calificacion": 7.693,
+      "numero_votos": 7988
+    },
+    "description": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario15",
+    "item": {
+      "titulo": "Muzzle",
+      "descripcion": "LAPD K-9 officer Jake Rosser has just witnessed the shocking murder of his dedicated partner by a mysterious assailant. As he investigates the shooter’s identity, he uncovers a vast conspiracy that has a chokehold on the city in this thrilling journey through the tangled streets of Los Angeles and the corrupt bureaucracy of the LAPD.",
+      "adulto": false,
+      "fondo": "/su7FqHdZez0oOvpZAbV7P6BGq0R.jpg",
+      "generos": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 939335,
+      "idioma_original": "en",
+      "titulo_original": "Muzzle",
+      "popularidad": 355.009,
+      "poster": "/AsM1H8DfaNo7bRu4q76MaVRRbIY.jpg",
+      "fecha_lanzamiento": "2023-09-29",
+      "video": false,
+      "calificacion": 6.516,
+      "numero_votos": 158
+    },
+    "description": "LAPD K-9 officer Jake Rosser has just witnessed the shocking murder of his dedicated partner by a mysterious assailant. As he investigates the shooter’s identity, he uncovers a vast conspiracy that has a chokehold on the city in this thrilling journey through the tangled streets of Los Angeles and the corrupt bureaucracy of the LAPD.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario17",
+    "item": {
+      "titulo": "Blue Beetle",
+      "descripcion": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+      "adulto": false,
+      "fondo": "/xzdOIL7261CWehsHOk3lnP0xqam.jpg",
+      "generos": [
+        28,
+        878,
+        12
+      ],
+      "id": 565770,
+      "idioma_original": "en",
+      "titulo_original": "Blue Beetle",
+      "popularidad": 253.21,
+      "poster": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+      "fecha_lanzamiento": "2023-08-16",
+      "video": false,
+      "calificacion": 6.871,
+      "numero_votos": 2153
+    },
+    "description": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario18",
+    "item": {
+      "titulo": "Mary and Max",
+      "descripcion": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+      "adulto": false,
+      "fondo": "/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+      "generos": [
+        16,
+        35,
+        18
+      ],
+      "id": 24238,
+      "idioma_original": "en",
+      "titulo_original": "Mary and Max",
+      "popularidad": 364.694,
+      "poster": "/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg",
+      "fecha_lanzamiento": "2009-02-09",
+      "video": false,
+      "calificacion": 7.863,
+      "numero_votos": 1836
+    },
+    "description": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario7",
+    "item": {
+      "titulo": "Deadpool & Wolverine",
+      "descripcion": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
+      "adulto": false,
+      "fondo": "/nbq3LfgLXnL5ixZ1Q74jTJmhmTS.jpg",
+      "generos": [
+        28,
+        35,
+        878
+      ],
+      "id": 533535,
+      "idioma_original": "en",
+      "titulo_original": "Deadpool & Wolverine",
+      "popularidad": 326.712,
+      "poster": "/uxBHXaoOvAwy4NpPpP7nNx2rXYQ.jpg",
+      "fecha_lanzamiento": "2024-07-24",
+      "video": false,
+      "calificacion": 0,
+      "numero_votos": 0
+    },
+    "description": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario12",
+    "item": {
+      "titulo": "Migration",
+      "descripcion": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+      "adulto": false,
+      "fondo": "/meyhnvssZOPPjud4F1CjOb4snET.jpg",
+      "generos": [
+        16,
+        28,
+        12,
+        35,
+        10751
+      ],
+      "id": 940551,
+      "idioma_original": "en",
+      "titulo_original": "Migration",
+      "popularidad": 826.167,
+      "poster": "/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+      "fecha_lanzamiento": "2023-12-06",
+      "video": false,
+      "calificacion": 7.646,
+      "numero_votos": 634
+    },
+    "description": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario11",
+    "item": {
+      "titulo": "The Marvels",
+      "descripcion": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "adulto": false,
+      "fondo": "/c4apcripPlnlnRcPODgAijCvPul.jpg",
+      "generos": [
+        878,
+        12,
+        28
+      ],
+      "id": 609681,
+      "idioma_original": "en",
+      "titulo_original": "The Marvels",
+      "popularidad": 1036.39,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "fecha_lanzamiento": "2023-11-08",
+      "video": false,
+      "calificacion": 6.284,
+      "numero_votos": 1655
+    },
+    "description": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario17",
+    "item": {
+      "titulo": "Blue Beetle",
+      "descripcion": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+      "adulto": false,
+      "fondo": "/xzdOIL7261CWehsHOk3lnP0xqam.jpg",
+      "generos": [
+        28,
+        878,
+        12
+      ],
+      "id": 565770,
+      "idioma_original": "en",
+      "titulo_original": "Blue Beetle",
+      "popularidad": 253.21,
+      "poster": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+      "fecha_lanzamiento": "2023-08-16",
+      "video": false,
+      "calificacion": 6.869,
+      "numero_votos": 2156
+    },
+    "description": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario11",
+    "item": {
+      "titulo": "The Family Plan",
+      "descripcion": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+      "adulto": false,
+      "fondo": "/r9oTasGQofvkQY5vlUXglneF64Z.jpg",
+      "generos": [
+        28,
+        35
+      ],
+      "id": 1029575,
+      "idioma_original": "en",
+      "titulo_original": "The Family Plan",
+      "popularidad": 998.491,
+      "poster": "/a6syn9qcU4a54Lmi3JoIr1XvhFU.jpg",
+      "fecha_lanzamiento": "2023-12-14",
+      "video": false,
+      "calificacion": 7.346,
+      "numero_votos": 895
+    },
+    "description": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario10",
+    "item": {
+      "titulo": "Poor Things",
+      "descripcion": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+      "adulto": false,
+      "fondo": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+      "generos": [
+        878,
+        10749,
+        35
+      ],
+      "id": 792307,
+      "idioma_original": "en",
+      "titulo_original": "Poor Things",
+      "popularidad": 364.084,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "fecha_lanzamiento": "2023-12-07",
+      "video": false,
+      "calificacion": 8.127,
+      "numero_votos": 1170
+    },
+    "description": "Brought back to life by an unorthodox scientist, a young woman runs off with a debauched lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario10",
+    "item": {
+      "titulo": "The Flash",
+      "descripcion": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+      "adulto": false,
+      "fondo": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+      "generos": [
+        28,
+        12,
+        878
+      ],
+      "id": 298618,
+      "idioma_original": "en",
+      "titulo_original": "The Flash",
+      "popularidad": 282.159,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "fecha_lanzamiento": "2023-06-13",
+      "video": false,
+      "calificacion": 6.785,
+      "numero_votos": 3574
+    },
+    "description": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario7",
+    "item": {
+      "titulo": "Sound of Freedom",
+      "descripcion": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+      "adulto": false,
+      "fondo": "/P3GAbRjzVo9RKU4WxzvtgwlITc.jpg",
+      "generos": [
+        28,
+        18
+      ],
+      "id": 678512,
+      "idioma_original": "en",
+      "titulo_original": "Sound of Freedom",
+      "popularidad": 210.585,
+      "poster": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+      "fecha_lanzamiento": "2023-07-03",
+      "video": false,
+      "calificacion": 8.056,
+      "numero_votos": 1955
+    },
+    "description": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario7",
+    "item": {
+      "titulo": "Lift",
+      "descripcion": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+      "adulto": false,
+      "fondo": "/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg",
+      "generos": [
+        28,
+        35,
+        80
+      ],
+      "id": 955916,
+      "idioma_original": "en",
+      "titulo_original": "Lift",
+      "popularidad": 976.755,
+      "poster": "/gma8o1jWa6m0K1iJ9TzHIiFyTtI.jpg",
+      "fecha_lanzamiento": "2024-01-10",
+      "video": false,
+      "calificacion": 6.588,
+      "numero_votos": 761
+    },
+    "description": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario19",
+    "item": {
+      "titulo": "The Flash",
+      "descripcion": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+      "adulto": false,
+      "fondo": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+      "generos": [
+        28,
+        12,
+        878
+      ],
+      "id": 298618,
+      "idioma_original": "en",
+      "titulo_original": "The Flash",
+      "popularidad": 282.159,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "fecha_lanzamiento": "2023-06-13",
+      "video": false,
+      "calificacion": 6.785,
+      "numero_votos": 3573
+    },
+    "description": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario19",
+    "item": {
+      "titulo": "Rebel Moon - Part One: A Child of Fire",
+      "descripcion": "When a peaceful colony on the edge of the galaxy finds itself threatened by the armies of the tyrannical Regent Balisarius, they dispatch Kora, a young woman with a mysterious past, to seek out warriors from neighboring planets to help them take a stand.",
+      "adulto": false,
+      "fondo": "/sRLC052ieEzkQs9dEtPMfFxYkej.jpg",
+      "generos": [
+        878,
+        18,
+        28
+      ],
+      "id": 848326,
+      "idioma_original": "en",
+      "titulo_original": "Rebel Moon - Part One: A Child of Fire",
+      "popularidad": 718.692,
+      "poster": "/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
+      "fecha_lanzamiento": "2023-12-15",
+      "video": false,
+      "calificacion": 6.408,
+      "numero_votos": 1424
+    },
+    "description": "When a peaceful colony on the edge of the galaxy finds itself threatened by the armies of the tyrannical Regent Balisarius, they dispatch Kora, a young woman with a mysterious past, to seek out warriors from neighboring planets to help them take a stand.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario9",
+    "item": {
+      "titulo": "The Hill",
+      "descripcion": "The story of Rickey Hill, who overcomes his physical disability and repairs his relationship with his father in a quest to become a major league baseball (MLB) player.",
+      "adulto": false,
+      "fondo": "/puUUsAri2UchyJgsbkpO3HZfKiw.jpg",
+      "generos": [
+        18,
+        36
+      ],
+      "id": 862557,
+      "idioma_original": "en",
+      "titulo_original": "The Hill",
+      "popularidad": 287.365,
+      "poster": "/gKh28PVUqt1vY2oAdFlauXkDacW.jpg",
+      "fecha_lanzamiento": "2023-08-18",
+      "video": false,
+      "calificacion": 7.8,
+      "numero_votos": 94
+    },
+    "description": "The story of Rickey Hill, who overcomes his physical disability and repairs his relationship with his father in a quest to become a major league baseball (MLB) player.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario9",
+    "item": {
+      "titulo": "Skal - Fight for Survival",
+      "descripcion": "My name's Arthur, a huge Internet star who's just hit 3 million subs. While in the midst of throwing an epic party to celebrate, the universe had the balls to bring on the effing apocalypse and cut my night short. What was supposed to be a perfect hangover, has turned into an epic fight for survival.",
+      "adulto": false,
+      "fondo": "/w12jjv5XNNpHgM4he1COnfWiA93.jpg",
+      "generos": [
+        28,
+        27,
+        35,
+        53
+      ],
+      "id": 1211483,
+      "idioma_original": "en",
+      "titulo_original": "Skal - Fight for Survival",
+      "popularidad": 974.289,
+      "poster": "/uQkiDKQyun13mqsOXv7I5MRKr0q.jpg",
+      "fecha_lanzamiento": "2023-11-24",
+      "video": false,
+      "calificacion": 5.7,
+      "numero_votos": 10
+    },
+    "description": "My name's Arthur, a huge Internet star who's just hit 3 million subs. While in the midst of throwing an epic party to celebrate, the universe had the balls to bring on the effing apocalypse and cut my night short. What was supposed to be a perfect hangover, has turned into an epic fight for survival.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario10",
+    "item": {
+      "titulo": "Trunk: Locked In",
+      "descripcion": "Malina wakes up disoriented in the trunk of a speeding car and discovers to her horror that she is missing more than her memory. With her mobile phone as the only link to the outside world, she wages a desperate battle for survival.",
+      "adulto": false,
+      "fondo": "/lVoHnqwfkDv4GHktEewBguhiNRn.jpg",
+      "generos": [
+        53,
+        28,
+        18
+      ],
+      "id": 1183905,
+      "idioma_original": "de",
+      "titulo_original": "Trunk: Locked In",
+      "popularidad": 202.451,
+      "poster": "/znbGgoqcQB0pxoTSO5imfALWOk3.jpg",
+      "fecha_lanzamiento": "2023-11-24",
+      "video": false,
+      "calificacion": 5.636,
+      "numero_votos": 33
+    },
+    "description": "Malina wakes up disoriented in the trunk of a speeding car and discovers to her horror that she is missing more than her memory. With her mobile phone as the only link to the outside world, she wages a desperate battle for survival.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario6",
+    "item": {
+      "titulo": "Freelance",
+      "descripcion": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+      "adulto": false,
+      "fondo": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+      "generos": [
+        28,
+        35
+      ],
+      "id": 897087,
+      "idioma_original": "en",
+      "titulo_original": "Freelance",
+      "popularidad": 566.04,
+      "poster": "/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+      "fecha_lanzamiento": "2023-10-05",
+      "video": false,
+      "calificacion": 6.547,
+      "numero_votos": 550
+    },
+    "description": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario5",
+    "item": {
+      "titulo": "The Super Mario Bros. Movie",
+      "descripcion": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      "adulto": false,
+      "fondo": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+      "generos": [
+        16,
+        10751,
+        12,
+        14,
+        35
+      ],
+      "id": 502356,
+      "idioma_original": "en",
+      "titulo_original": "The Super Mario Bros. Movie",
+      "popularidad": 233.088,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "fecha_lanzamiento": "2023-04-05",
+      "video": false,
+      "calificacion": 7.693,
+      "numero_votos": 7988
+    },
+    "description": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario2",
+    "item": {
+      "titulo": "Meg 2: The Trench",
+      "descripcion": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+      "adulto": false,
+      "fondo": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
+      "generos": [
+        28,
+        878,
+        27
+      ],
+      "id": 615656,
+      "idioma_original": "en",
+      "titulo_original": "Meg 2: The Trench",
+      "popularidad": 277.774,
+      "poster": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+      "fecha_lanzamiento": "2023-08-02",
+      "video": false,
+      "calificacion": 6.643,
+      "numero_votos": 2904
+    },
+    "description": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario8",
+    "item": {
+      "titulo": "Barbie",
+      "descripcion": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "adulto": false,
+      "fondo": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+      "generos": [
+        35,
+        12,
+        14
+      ],
+      "id": 346698,
+      "idioma_original": "en",
+      "titulo_original": "Barbie",
+      "popularidad": 232.236,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "fecha_lanzamiento": "2023-07-19",
+      "video": false,
+      "calificacion": 7.126,
+      "numero_votos": 7327
+    },
+    "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario16",
+    "item": {
+      "titulo": "The Hill",
+      "descripcion": "The story of Rickey Hill, who overcomes his physical disability and repairs his relationship with his father in a quest to become a major league baseball (MLB) player.",
+      "adulto": false,
+      "fondo": "/puUUsAri2UchyJgsbkpO3HZfKiw.jpg",
+      "generos": [
+        18,
+        36
+      ],
+      "id": 862557,
+      "idioma_original": "en",
+      "titulo_original": "The Hill",
+      "popularidad": 287.365,
+      "poster": "/gKh28PVUqt1vY2oAdFlauXkDacW.jpg",
+      "fecha_lanzamiento": "2023-08-18",
+      "video": false,
+      "calificacion": 7.8,
+      "numero_votos": 94
+    },
+    "description": "The story of Rickey Hill, who overcomes his physical disability and repairs his relationship with his father in a quest to become a major league baseball (MLB) player.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario20",
+    "item": {
+      "titulo": "Oppenheimer",
+      "descripcion": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+      "adulto": false,
+      "fondo": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "generos": [
+        18,
+        36
+      ],
+      "id": 872585,
+      "idioma_original": "en",
+      "titulo_original": "Oppenheimer",
+      "popularidad": 405.249,
+      "poster": "/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
+      "fecha_lanzamiento": "2023-07-19",
+      "video": false,
+      "calificacion": 8.1,
+      "numero_votos": 6667
+    },
+    "description": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario17",
+    "item": {
+      "titulo": "Sixty Minutes",
+      "descripcion": "Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.",
+      "adulto": false,
+      "fondo": "/unvtbkgxh47BewQ8pENvdOdme0r.jpg",
+      "generos": [
+        28,
+        18
+      ],
+      "id": 1212073,
+      "idioma_original": "de",
+      "titulo_original": "60 Minuten",
+      "popularidad": 1334.324,
+      "poster": "/aajCqg315CoJPu1NmgPCkbRjnl6.jpg",
+      "fecha_lanzamiento": "2024-01-19",
+      "video": false,
+      "calificacion": 6.96,
+      "numero_votos": 316
+    },
+    "description": "Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario13",
+    "item": {
+      "titulo": "Godzilla Minus One",
+      "descripcion": "Postwar Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.",
+      "adulto": false,
+      "fondo": "/bWIIWhnaoWx3FTVXv6GkYDv3djL.jpg",
+      "generos": [
+        878,
+        27,
+        28
+      ],
+      "id": 940721,
+      "idioma_original": "ja",
+      "titulo_original": "ゴジラ-1.0",
+      "popularidad": 242.224,
+      "poster": "/fk62hm95sVNHy5Lkx3d18wj1v19.jpg",
+      "fecha_lanzamiento": "2023-11-03",
+      "video": false,
+      "calificacion": 7.915,
+      "numero_votos": 400
+    },
+    "description": "Postwar Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario4",
+    "item": {
+      "titulo": "Godzilla x Kong: The New Empire",
+      "descripcion": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "adulto": false,
+      "fondo": "/yKAg8z8T1iXeYA0Io3E4u9mchdt.jpg",
+      "generos": [
+        28,
+        878,
+        12
+      ],
+      "id": 823464,
+      "idioma_original": "en",
+      "titulo_original": "Godzilla x Kong: The New Empire",
+      "popularidad": 228.426,
+      "poster": "/bQ2ywkchIiaKLSEaMrcT6e29f91.jpg",
+      "fecha_lanzamiento": "2024-03-27",
+      "video": false,
+      "calificacion": 0,
+      "numero_votos": 0
+    },
+    "description": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario2",
+    "item": {
+      "titulo": "Wonka",
+      "descripcion": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+      "adulto": false,
+      "fondo": "/yyFc8Iclt2jxPmLztbP617xXllT.jpg",
+      "generos": [
+        35,
+        10751,
+        14
+      ],
+      "id": 787699,
+      "idioma_original": "en",
+      "titulo_original": "Wonka",
+      "popularidad": 1097.526,
+      "poster": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "fecha_lanzamiento": "2023-12-06",
+      "video": false,
+      "calificacion": 7.201,
+      "numero_votos": 2091
+    },
+    "description": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario5",
+    "item": {
+      "titulo": "Freelance",
+      "descripcion": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+      "adulto": false,
+      "fondo": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+      "generos": [
+        28,
+        35
+      ],
+      "id": 897087,
+      "idioma_original": "en",
+      "titulo_original": "Freelance",
+      "popularidad": 566.04,
+      "poster": "/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+      "fecha_lanzamiento": "2023-10-05",
+      "video": false,
+      "calificacion": 6.547,
+      "numero_votos": 550
+    },
+    "description": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario1",
+    "item": {
+      "titulo": "Napoleon",
+      "descripcion": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+      "adulto": false,
+      "fondo": "/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg",
+      "generos": [
+        36,
+        10752,
+        28,
+        18
+      ],
+      "id": 753342,
+      "idioma_original": "en",
+      "titulo_original": "Napoleon",
+      "popularidad": 556.714,
+      "poster": "/vcZWJGvB5xydWuUO1vaTLI82tGi.jpg",
+      "fecha_lanzamiento": "2023-11-22",
+      "video": false,
+      "calificacion": 6.52,
+      "numero_votos": 1650
+    },
+    "description": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario13",
+    "item": {
+      "titulo": "Sixty Minutes",
+      "descripcion": "Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.",
+      "adulto": false,
+      "fondo": "/unvtbkgxh47BewQ8pENvdOdme0r.jpg",
+      "generos": [
+        28,
+        18
+      ],
+      "id": 1212073,
+      "idioma_original": "de",
+      "titulo_original": "60 Minuten",
+      "popularidad": 1334.324,
+      "poster": "/aajCqg315CoJPu1NmgPCkbRjnl6.jpg",
+      "fecha_lanzamiento": "2024-01-19",
+      "video": false,
+      "calificacion": 6.96,
+      "numero_votos": 316
+    },
+    "description": "Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario16",
+    "item": {
+      "titulo": "Blue Beetle",
+      "descripcion": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+      "adulto": false,
+      "fondo": "/xzdOIL7261CWehsHOk3lnP0xqam.jpg",
+      "generos": [
+        28,
+        878,
+        12
+      ],
+      "id": 565770,
+      "idioma_original": "en",
+      "titulo_original": "Blue Beetle",
+      "popularidad": 253.21,
+      "poster": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+      "fecha_lanzamiento": "2023-08-16",
+      "video": false,
+      "calificacion": 6.869,
+      "numero_votos": 2156
+    },
+    "description": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario11",
+    "item": {
+      "titulo": "The Beekeeper",
+      "descripcion": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+      "adulto": false,
+      "fondo": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "generos": [
+        28,
+        53,
+        18
+      ],
+      "id": 866398,
+      "idioma_original": "en",
+      "titulo_original": "The Beekeeper",
+      "popularidad": 790.928,
+      "poster": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "fecha_lanzamiento": "2024-01-10",
+      "video": false,
+      "calificacion": 7.278,
+      "numero_votos": 1095
+    },
+    "description": "One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario14",
+    "item": {
+      "titulo": "Sixty Minutes",
+      "descripcion": "Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.",
+      "adulto": false,
+      "fondo": "/unvtbkgxh47BewQ8pENvdOdme0r.jpg",
+      "generos": [
+        28,
+        18
+      ],
+      "id": 1212073,
+      "idioma_original": "de",
+      "titulo_original": "60 Minuten",
+      "popularidad": 1334.324,
+      "poster": "/aajCqg315CoJPu1NmgPCkbRjnl6.jpg",
+      "fecha_lanzamiento": "2024-01-19",
+      "video": false,
+      "calificacion": 6.96,
+      "numero_votos": 316
+    },
+    "description": "Desperate to keep custody of his daughter, a mixed martial arts fighter abandons a big match and races across Berlin to attend her birthday party.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario1",
+    "item": {
+      "titulo": "Lift",
+      "descripcion": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+      "adulto": false,
+      "fondo": "/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg",
+      "generos": [
+        28,
+        35,
+        80
+      ],
+      "id": 955916,
+      "idioma_original": "en",
+      "titulo_original": "Lift",
+      "popularidad": 976.755,
+      "poster": "/gma8o1jWa6m0K1iJ9TzHIiFyTtI.jpg",
+      "fecha_lanzamiento": "2024-01-10",
+      "video": false,
+      "calificacion": 6.576,
+      "numero_votos": 771
+    },
+    "description": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario6",
+    "item": {
+      "titulo": "Anyone But You",
+      "descripcion": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "adulto": false,
+      "fondo": "/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
+      "generos": [
+        35,
+        10749
+      ],
+      "id": 1072790,
+      "idioma_original": "en",
+      "titulo_original": "Anyone But You",
+      "popularidad": 593.579,
+      "poster": "/yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg",
+      "fecha_lanzamiento": "2023-12-21",
+      "video": false,
+      "calificacion": 6.999,
+      "numero_votos": 399
+    },
+    "description": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario15",
+    "item": {
+      "titulo": "Sound of Freedom",
+      "descripcion": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+      "adulto": false,
+      "fondo": "/P3GAbRjzVo9RKU4WxzvtgwlITc.jpg",
+      "generos": [
+        28,
+        18
+      ],
+      "id": 678512,
+      "idioma_original": "en",
+      "titulo_original": "Sound of Freedom",
+      "popularidad": 210.585,
+      "poster": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+      "fecha_lanzamiento": "2023-07-03",
+      "video": false,
+      "calificacion": 8.056,
+      "numero_votos": 1955
+    },
+    "description": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario5",
+    "item": {
+      "titulo": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "descripcion": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+      "adulto": false,
+      "fondo": "/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+      "generos": [
+        18,
+        878,
+        28
+      ],
+      "id": 695721,
+      "idioma_original": "en",
+      "titulo_original": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "popularidad": 693.233,
+      "poster": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+      "fecha_lanzamiento": "2023-11-15",
+      "video": false,
+      "calificacion": 7.209,
+      "numero_votos": 1729
+    },
+    "description": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario1",
+    "item": {
+      "titulo": "The Family Plan",
+      "descripcion": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+      "adulto": false,
+      "fondo": "/r9oTasGQofvkQY5vlUXglneF64Z.jpg",
+      "generos": [
+        28,
+        35
+      ],
+      "id": 1029575,
+      "idioma_original": "en",
+      "titulo_original": "The Family Plan",
+      "popularidad": 998.491,
+      "poster": "/a6syn9qcU4a54Lmi3JoIr1XvhFU.jpg",
+      "fecha_lanzamiento": "2023-12-14",
+      "video": false,
+      "calificacion": 7.346,
+      "numero_votos": 895
+    },
+    "description": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario10",
+    "item": {
+      "titulo": "Badland Hunters",
+      "descripcion": "After a deadly earthquake turns Seoul into a lawless badland, a fearless huntsman springs into action to rescue a teenager abducted by a mad doctor.",
+      "adulto": false,
+      "fondo": "/pWsD91G2R1Da3AKM3ymr3UoIfRb.jpg",
+      "generos": [
+        878,
+        28,
+        18
+      ],
+      "id": 933131,
+      "idioma_original": "ko",
+      "titulo_original": "황야",
+      "popularidad": 2105.88,
+      "poster": "/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg",
+      "fecha_lanzamiento": "2024-01-26",
+      "video": false,
+      "calificacion": 6.735,
+      "numero_votos": 361
+    },
+    "description": "After a deadly earthquake turns Seoul into a lawless badland, a fearless huntsman springs into action to rescue a teenager abducted by a mad doctor.",
+    "calificacion": 3
+  },
+  {
+    "usuario": "Usuario1",
+    "item": {
+      "titulo": "The Super Mario Bros. Movie",
+      "descripcion": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      "adulto": false,
+      "fondo": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+      "generos": [
+        16,
+        10751,
+        12,
+        14,
+        35
+      ],
+      "id": 502356,
+      "idioma_original": "en",
+      "titulo_original": "The Super Mario Bros. Movie",
+      "popularidad": 233.088,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "fecha_lanzamiento": "2023-04-05",
+      "video": false,
+      "calificacion": 7.693,
+      "numero_votos": 7988
+    },
+    "description": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario3",
+    "item": {
+      "titulo": "Madame Web",
+      "descripcion": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+      "adulto": false,
+      "fondo": "/uUiIGztTrfDhPdAFJpr6m4UBMAd.jpg",
+      "generos": [
+        878,
+        28,
+        12
+      ],
+      "id": 634492,
+      "idioma_original": "en",
+      "titulo_original": "Madame Web",
+      "popularidad": 567.846,
+      "poster": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+      "fecha_lanzamiento": "2024-02-14",
+      "video": false,
+      "calificacion": 5.685,
+      "numero_votos": 54
+    },
+    "description": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario13",
+    "item": {
+      "titulo": "Madame Web",
+      "descripcion": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+      "adulto": false,
+      "fondo": "/uUiIGztTrfDhPdAFJpr6m4UBMAd.jpg",
+      "generos": [
+        878,
+        28,
+        12
+      ],
+      "id": 634492,
+      "idioma_original": "en",
+      "titulo_original": "Madame Web",
+      "popularidad": 567.846,
+      "poster": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+      "fecha_lanzamiento": "2024-02-14",
+      "video": false,
+      "calificacion": 5.685,
+      "numero_votos": 54
+    },
+    "description": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+    "calificacion": 5
+  },
+  {
+    "usuario": "Usuario16",
+    "item": {
+      "titulo": "Guardians of the Galaxy Vol. 3",
+      "descripcion": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "adulto": false,
+      "fondo": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+      "generos": [
+        878,
+        12,
+        28
+      ],
+      "id": 447365,
+      "idioma_original": "en",
+      "titulo_original": "Guardians of the Galaxy Vol. 3",
+      "popularidad": 196.741,
+      "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "fecha_lanzamiento": "2023-05-03",
+      "video": false,
+      "calificacion": 7.982,
+      "numero_votos": 5887
+    },
+    "description": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario11",
+    "item": {
+      "titulo": "Badland Hunters",
+      "descripcion": "After a deadly earthquake turns Seoul into a lawless badland, a fearless huntsman springs into action to rescue a teenager abducted by a mad doctor.",
+      "adulto": false,
+      "fondo": "/pWsD91G2R1Da3AKM3ymr3UoIfRb.jpg",
+      "generos": [
+        878,
+        28,
+        18
+      ],
+      "id": 933131,
+      "idioma_original": "ko",
+      "titulo_original": "황야",
+      "popularidad": 2105.88,
+      "poster": "/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg",
+      "fecha_lanzamiento": "2024-01-26",
+      "video": false,
+      "calificacion": 6.735,
+      "numero_votos": 361
+    },
+    "description": "After a deadly earthquake turns Seoul into a lawless badland, a fearless huntsman springs into action to rescue a teenager abducted by a mad doctor.",
+    "calificacion": 1
+  },
+  {
+    "usuario": "Usuario11",
+    "item": {
+      "titulo": "Anyone But You",
+      "descripcion": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "adulto": false,
+      "fondo": "/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
+      "generos": [
+        35,
+        10749
+      ],
+      "id": 1072790,
+      "idioma_original": "en",
+      "titulo_original": "Anyone But You",
+      "popularidad": 593.579,
+      "poster": "/yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg",
+      "fecha_lanzamiento": "2023-12-21",
+      "video": false,
+      "calificacion": 6.999,
+      "numero_votos": 399
+    },
+    "description": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+    "calificacion": 2
+  },
+  {
+    "usuario": "Usuario3",
+    "item": {
+      "titulo": "Fast Charlie",
+      "descripcion": "When his aging mob boss is whacked, Charlie Swift, a loyal friend and hired gun, will stop at nothing to destroy the upcoming crew that took him out.",
+      "adulto": false,
+      "fondo": "/uOvcyJ3XmUv4geypGvZBeZEFMO6.jpg",
+      "generos": [
+        28,
+        80,
+        18
+      ],
+      "id": 945937,
+      "idioma_original": "en",
+      "titulo_original": "Fast Charlie",
+      "popularidad": 221.026,
+      "poster": "/w0rYX6dDvcz1ASO4MAKPviaAj2x.jpg",
+      "fecha_lanzamiento": "2023-12-08",
+      "video": false,
+      "calificacion": 6.215,
+      "numero_votos": 71
+    },
+    "description": "When his aging mob boss is whacked, Charlie Swift, a loyal friend and hired gun, will stop at nothing to destroy the upcoming crew that took him out.",
+    "calificacion": 4
+  },
+  {
+    "usuario": "Usuario15",
+    "item": {
+      "titulo": "Muzzle",
+      "descripcion": "LAPD K-9 officer Jake Rosser has just witnessed the shocking murder of his dedicated partner by a mysterious assailant. As he investigates the shooter’s identity, he uncovers a vast conspiracy that has a chokehold on the city in this thrilling journey through the tangled streets of Los Angeles and the corrupt bureaucracy of the LAPD.",
+      "adulto": false,
+      "fondo": "/su7FqHdZez0oOvpZAbV7P6BGq0R.jpg",
+      "generos": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 939335,
+      "idioma_original": "en",
+      "titulo_original": "Muzzle",
+      "popularidad": 355.009,
+      "poster": "/AsM1H8DfaNo7bRu4q76MaVRRbIY.jpg",
+      "fecha_lanzamiento": "2023-09-29",
+      "video": false,
+      "calificacion": 6.516,
+      "numero_votos": 158
+    },
+    "description": "LAPD K-9 officer Jake Rosser has just witnessed the shocking murder of his dedicated partner by a mysterious assailant. As he investigates the shooter’s identity, he uncovers a vast conspiracy that has a chokehold on the city in this thrilling journey through the tangled streets of Los Angeles and the corrupt bureaucracy of the LAPD.",
+    "calificacion": 3
+  }
+]
