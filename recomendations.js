@@ -7,7 +7,7 @@ const fs = require('fs').promises;
 // Definir y entrenar tu modelo de recomendación
 async function trainModel() {
     // Cargar y preprocesar tus datos
-    const data = await loadData('dataset_peliculas.json');
+    const data = await loadData('dataset.json');
     const processedData = preprocessData(data);
 
     // Definir la arquitectura del modelo
